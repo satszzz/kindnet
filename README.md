@@ -159,24 +159,6 @@ The project demonstrates how digital platforms can create meaningful change in s
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here:
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Login Page
-
-![Login Page](screenshots/login.png)
-
-### Food Donation Page
-
-![Donation Page](screenshots/donation.png)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
