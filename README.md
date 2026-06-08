@@ -189,3 +189,9 @@ This project is created for educational and social-impact purposes.
 
 ---
 
+### ❤️ KindNet
+
+*"Small Acts of Kindness Can Create Big Changes."*
+
+⭐ If you like this project, don't forget to Star the repository!
+
